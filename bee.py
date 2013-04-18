@@ -36,7 +36,7 @@ from time import sleep
 extensions_list = '''
   bee.py [options]
 
-This Scipt Help You To inject Diffrent Headers And Footers Into Your Files ...
+Bee Anti Forensics Project , Header & Footer Injector
 Writen By : Fardin Allahverdinazhand (0x0ptim0us)
 Email : 0x0ptim0us@Gmail.com
 
